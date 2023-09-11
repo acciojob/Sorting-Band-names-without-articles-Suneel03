@@ -1,4 +1,5 @@
 //your code here
+let bandNames = ['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
 function sortBandNames(bandNames) {
     return bandNames.sort((a, b) => {
         // Function to remove articles and leading spaces
